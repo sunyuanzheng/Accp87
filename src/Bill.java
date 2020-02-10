@@ -17,7 +17,7 @@ public class Bill {
 	
 	private Provider provider;
 	
-	public Provider getProvider() {
+	public Provider getProvider() { 
 		return provider;
 	}
 	public void setProvider(Provider provider) {
